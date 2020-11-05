@@ -1,1 +1,3 @@
 Contenido de otro archivo
+
+Se realizan algunos cambios en el segundo archivo.
